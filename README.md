@@ -1,4 +1,4 @@
-
+![banner](https://github.com/torppa/torppa/img/banner.png?raw)
 
 <h1 align="center">Hep 👋, Olen Jussi</h1>
 <h3 align="center">Ope Gradialla</h3>

@@ -1,4 +1,4 @@
-![banner](https://github.com/torppa/torppa/blob/main/img/Wedding%20Banner%20.png?raw=true)
+![banner](https://github.com/torppa/torppa/blob/main/img/banner.png?raw=true)
 
 <h1 align="center">Hep 👋, Olen Jussi</h1>
 <h3 align="center">Ope Gradialla</h3>

@@ -7,6 +7,9 @@
 <p align="left">
 </p>
 
+[![Torppa's GitHub stats](https://github-readme-stats.vercel.app/api?username=torppa)](https://github.com/torppa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torppa)](https://github.com/torppa/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="40" style="margin:55px 55px"/></a>     
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="40"/></a> 

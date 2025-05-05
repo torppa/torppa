@@ -1,7 +1,7 @@
-<img src=img/tausta.jpg>
+<img src=img/banner.JPG>
 
-<h1 align="center">Terve olen Jussi Torppa</h1>
-<h3 align="center"> opettaja Gradilla</h3>
+<!--<h1 align="center">Terve olen Jussi Torppa</h1>
+<h3 align="center"> opettaja Gradilla</h3>-->
 
 <h3 align="left">Connect with me:jussi.torppa@gradia.fi</h3>
 <p align="left">

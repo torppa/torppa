@@ -1,3 +1,5 @@
+<img source="/img/tausta.jpg">
+
 <h1 align="center">Terve olen Jussi Torppa</h1>
 <h3 align="center"> opettaja Gradilla</h3>
 

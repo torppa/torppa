@@ -7,7 +7,8 @@
 
 ---
 
-<h3 align="left">Connect with me: <jussi.torppa@gradia.fi> </h3>
+Connect with me: <jussi.torppa@gradia.fi> 
+
 <p align="left">
 </p>
 

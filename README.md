@@ -1,4 +1,4 @@
-![Tausta](img/tausta.jpg)
+<img src=img/tausta.jpg>
 
 <h1 align="center">Terve olen Jussi Torppa</h1>
 <h3 align="center"> opettaja Gradilla</h3>
@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=torppa&show_icons=true&locale=en&layout=compact" alt="torppa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torppa&show_icons=true&locale=en" alt="torppa" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torppa&show_icons=true&locale=en" alt="torppa" /></p>-->
